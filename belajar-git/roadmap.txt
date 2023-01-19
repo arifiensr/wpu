@@ -1,5 +1,6 @@
 Roadmap front-end
 - HTML
+  * tag, semantic
 - CSS
 - CSS Framework
 - Javascript
