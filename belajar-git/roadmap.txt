@@ -1,5 +1,6 @@
 Roadmap front-end
 - HTML
-  * h1 h2
+  * tag, semantic
+  * div ls
 - CSS
 - Javascript
