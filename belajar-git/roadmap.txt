@@ -2,3 +2,4 @@ Roadmap front-end
 - HTML
 - CSS
 - CSS Framework
+- Javascript
